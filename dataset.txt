@@ -78,6 +78,7 @@ candidate surprise
 candy positive
 cap positive
 capable positive
+word emotion
 capacity positive
 capital surprise
 capital surprise
